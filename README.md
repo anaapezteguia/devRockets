@@ -1,4 +1,4 @@
-![www.ana-am.es](./src/images/ana_am_es-logo.png)
+![We are devRockets](./src/images/heroIndexTablet.png)
 
 # DEVROCKETS
 
@@ -16,5 +16,3 @@ Además hemos añadido transiciones y algún pequeño cambio autorizado por el P
 Hemos comenzado a trabajar en HTML y CSS, para después migrar el proyecto a nuestro [Adalab Web Starter Kit](https://github.com/Adalab/adalab-web-starter-kit). Por otra parte, hemos utilizado ramas, para poder trabajar simultáneamente evitando así conflictos de código.
 
 Se puede acceder a la web desde el link adjuntado en Github Pages.
-
-© Ana Apezteguía Martínez.
